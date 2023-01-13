@@ -1,4 +1,4 @@
-# labs
+# projects
 order | project | date finished
 --- | --- | --- |
-1 | Quickstart | | 
+1 | | | 
