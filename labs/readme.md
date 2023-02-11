@@ -6,3 +6,4 @@ order | lab | date finished
 3 | Pandas | 01-22-2023 |
 4 | skLearn | 01-27-2023 |
 5 | Decision Trees | 02-03-2023 |
+6 | Working With Data | 02-11-2023 |
