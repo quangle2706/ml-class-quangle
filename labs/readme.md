@@ -9,3 +9,4 @@ order | lab | date finished
 6 | Working With Data | 02-11-2023 |
 7 | Regression | 02-20-2023 |
 8 | Clustering | 02-22-2023 |
+9 | Bagging and Pasting | 02-25-2023 | 
