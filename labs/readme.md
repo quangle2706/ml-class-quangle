@@ -11,3 +11,4 @@ order | lab | date finished
 8 | Clustering | 02-22-2023 |
 9 | Bagging and Pasting | 02-25-2023 | 
 10 | XGBoost | 03-03-2023 |
+11 | A first look at Deep Learning | 03-14-2023 |
