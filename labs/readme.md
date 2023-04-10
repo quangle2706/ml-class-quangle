@@ -14,3 +14,4 @@ order | lab | date finished
 11 | A first look at Deep Learning | 03-14-2023 |
 12 | Convolutional Neural Networks | 03-26-2023 |
 13 | Deep Learning for Natural Language Processing | 04-10-2023 |
+14 | Word Embeddings | 04-10-2023 |
